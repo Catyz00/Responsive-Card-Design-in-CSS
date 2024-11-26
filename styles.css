@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #FFD342;
+    font-family: 'Parkisans', sans-serif;
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.card-white{
+    background-color: white;
+    max-width: 506px;
+    height: 626px;
+    margin: 500px auto;
+    position: relative;
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: 16px 16px 0px rgba(0, 0, 0, 1);
+}
+
+.card-yellow{
+    background-color: #FFD342;
+    max-width: 450px;
+    height: 248px;
+    margin: 16px auto;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.div-content{
+    margin: 10px 28px;
+    position: absolute;
+}
+
+.content{
+    margin: 10px;
+}
+
+.button{
+    height: 43px;
+    width: 114px;
+    font-size: 20px;
+    background-color: #FFD342;
+    border-radius: 7px;
+    outline: none;
+}
+
+.date{
+    font-size: 20px;
+}
+
+.title{
+    font-size: 32px;
+}
+
+a{
+    text-decoration: none;
+    color: #FFD342;
+}
+
+.lorem{
+    font-size: 20px;
+    color: rgb(63, 62, 62);
+}
+
+.me-content{
+   margin-top: 30px;
+   position: relative;
+   width: 50%;
+   height: 30%;
+}
+
+.name{
+    position: absolute;
+    left: 30%;
+    top: 30%;
+}
